@@ -1,0 +1,34 @@
+@[image tags at the top, bare format, e.g. @avatar @product @image_1 @image_2]
+
+1. OPENING LINE: A [X]-second vertical 9:16 UGC handheld phone video. Authentic iPhone-filmed aesthetic.
+
+2. CAMERA & FRAMING: [camera position, angle, distance from subject, framing tightness, movement or lack of it; static tripod vs handheld phone].
+
+3. IMAGE QUALITY: [focus depth (deep focus), bokeh (no), camera type (standard iPhone main camera, NOT iPhone Pro Cinematic, NOT Sony FX3, no fish-eye), color grading (none for UGC), slight natural digital sensor noise].
+
+4. SETTING: [environment in clear specific detail: visible objects, lighting source and direction, color palette, time of day].
+
+5. CHARACTER / SUBJECT: [age, build, hair, skin, clothing, accessories; "matches @image_1 exactly" if a reference is used].
+
+6. BEHAVIOR / ACTION: [what the subject does exactly: body language, expressions, movements; behavior, not emotional cause].
+
+7. ACTION & DIALOGUE, TIMED PRECISELY:
+- 0.0s: [...]
+- [x.x]s: [...]
+
+8. DIALOGUE DELIVERY: [tone, pace, emphasis, emotional quality; about 2.5 to 3 words per second].
+
+9. VOICE PROFILE: [pitch, accent, age, pace, energy, prosody], real human prosody, natural breath sounds, micro-emphasis variations, NOT AI-generated, NOT robotic, NOT over-articulated narrator voice.
+
+10. SOUND DESIGN, TIMESTAMPED: [no music unless asked]
+- 0.0s: [...]
+- [x.x]s: [...]
+
+11. STYLE / OVERALL VIBE: [energy + visual palette].
+
+12. CRITICAL RULES:
+1. Keep @product 100% identical to its reference image — same design, same proportions, same details. Do NOT redraw or modify it.
+2. [...]
+3. [... 5 to 10 rules, repeating the most important constraints]
+
+13. DO NOT: [only things present in the prompt or known failure modes: redraw the product, fish-eye, bokeh, cinematic grading, extra fingers, distorted faces, extra people/objects, garbled text, ...]

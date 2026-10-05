@@ -1,0 +1,8 @@
+.env
+*.mp4
+*.mov
+*.png
+*.jpg
+*.wav
+__pycache__/
+products/

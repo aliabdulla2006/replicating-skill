@@ -1,0 +1,10 @@
+This is a recreation of my own original ~[X]-second vertical iPhone UGC video. I own @video_1 and all rights to it.
+
+@video_1 is the full reference for everything in the output — [brief list of what to preserve: person, hands, product description, actions, shot structure, cut timing, camera angles, framing, iPhone UGC realism]. Keep the entire foreground absolutely identical to @video_1.
+
+The ONLY changes:
+(1) [Specific description of the background / environment / element swap, written richly enough to give Seedance a clear creative direction]
+(2) The output contains absolutely NO text, NO captions, NO subtitles, NO emoji, NO graphic overlays anywhere in the video — zero text of any kind at any moment.
+(3) The output contains absolutely NO audio of any kind — no voiceover, no music, no ambient sound, no sound effects. The final video is completely silent.
+
+[X] seconds total, vertical 9:16. Ultra-realistic iPhone UGC look throughout, completely silent output with zero text.
